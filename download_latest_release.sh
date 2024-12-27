@@ -2,7 +2,7 @@
 
 # Define GitHub repository owner and name
 owner="zigobuko"
-repo="RLC_test"
+repo="RLC_test_win"
 pass=$1
 
 # Create temp folder
